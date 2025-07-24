@@ -1,0 +1,15 @@
+MinecraftExcavatorMod/
+ ├─ build.gradle
+ ├─ settings.gradle
+ ├─ gradlew
+ ├─ gradlew.bat
+ ├─ src/
+ │   └─ main/
+ │       ├─ java/
+ │       │   └─ com/
+ │       │       └─ lk/
+ │       │           └─ excavator/
+ │       │               └─ ExcavatorMod.java
+ │       └─ resources/
+ │           └─ META-INF/
+ │               └─ mods.toml
