@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[8,)"
+license="MIT"
+[[mods]]
+modId="excavator"
+version="1.0"
+displayName="Excavator Mod"
+updateJSON=""
+
+[[dependencies.excavator]]
+modId="forge"
+mandatory=true
+versionRange="[11.14.4.1563,)"
+ordering="NONE"
+side="CLIENT"
